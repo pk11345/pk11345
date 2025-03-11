@@ -31,25 +31,21 @@
 ---
 
 ### 🏆 Featured Projects:
-🔹 **[ShopCart (MERN E-commerce App)](https://github.com/your-github-repo)**
+🔹 **[ShopCart (MERN E-commerce App)](https://github.com/pk11345/ShopCart)**
 - 🛒 **Full-stack e-commerce app with authentication & persistent cart**
 - 🔥 **Tech Stack:** React.js, Node.js, Express, MongoDB, Tailwind CSS  
 
-🔹 **[Portfolio Website](https://github.com/your-github-repo)**
+🔹 **[Portfolio Website](https://pankaj-portfolio-eta.vercel.app)**
 - 🚀 **Personal portfolio showcasing projects & skills**
 - 🔥 **Tech Stack:** React.js, Tailwind CSS  
 
-🔹 **[Netflix UI Clone](https://github.com/your-github-repo)**
-- 🎬 **Netflix homepage clone with a responsive design**
+🔹 **[Netflix UI Clone](https://github.com/pk11345/Flipkart-UI)**
+- 🎬 **Flipkart homepage clone with a responsive design**
 - 🔥 **Tech Stack:** HTML, CSS  
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Kumar&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Kumar&theme=radical" height="150"/>
-</p>
+
 
 ---
 
